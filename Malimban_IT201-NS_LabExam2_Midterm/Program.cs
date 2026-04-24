@@ -8,9 +8,6 @@ namespace Malimban_IT201_NS_LabExam2_Midterm
 {
     internal static class Program
     {
-        /// <summary>
-        /// The main entry point for the application.
-        /// </summary>
         [STAThread]
         static void Main()
         {
